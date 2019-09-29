@@ -1,5 +1,3 @@
-from scipy.spatial import distance
-import pandas as pd
 from math import *
 
 x = (1.4, 1.6)
@@ -13,11 +11,11 @@ x5 = (1.5, 1.0)
 def euclidean_distance(x, y):
     return sqrt(sum(pow(a - b, 2) for a, b in zip(x, y)))
 
-x1_EuDist = distance.euclidean(x, x1)
-x2_EuDist = distance.euclidean(x, x2)
-x3_EuDist = distance.euclidean(x, x3)
-x4_EuDist = distance.euclidean(x, x4)
-x5_EuDist = distance.euclidean(x, x5)
+x1_EuDist = euclidean_distance(x, x1)
+x2_EuDist = euclidean_distance(x, x2)
+x3_EuDist = euclidean_distance(x, x3)
+x4_EuDist = euclidean_distance(x, x4)
+x5_EuDist = euclidean_distance(x, x5)
 
 # Manhattan distance with dataset
 def manhattan_distance(x, y):
