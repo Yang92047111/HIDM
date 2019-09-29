@@ -27,14 +27,15 @@ def equiwidth(data, m):
                 temp += [j] 
         arri += [temp] 
     print(arri)  
-  
-#data to be binned 
-dataset = [5, 10, 11, 13, 15, 35, 50, 55, 72, 92, 204, 215] 
-#no of bins 
-m = 3 
-  
-print("equal frequency binning") 
-equifreq(dataset, m) 
-  
-print("\nequal width binning") 
-equiwidth(dataset, m) 
+
+if __name__ == "__main__":
+    #data to be binned 
+    dataset = [5, 10, 11, 13, 15, 35, 50, 55, 72, 92, 204, 215] 
+    #no of bins 
+    m = 3 
+    
+    print("equal frequency binning") 
+    equifreq(dataset, m) 
+    
+    print("\nequal width binning") 
+    equiwidth(dataset, m) 
