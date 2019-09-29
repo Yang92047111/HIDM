@@ -1,6 +1,5 @@
 #equal frequency 
 def equifreq(data, m): 
-      
     a = len(data) 
     n = int(a / m) 
     for i in range(0, m): 
