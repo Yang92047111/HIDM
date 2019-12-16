@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.29)  2 OCT 2019 15:22
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.9.29)  19 OCT 2019 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -328,88 +328,88 @@ LaTeX Info: Redefining \] on input line 2845.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for FML/fncmi/m/it on input line 47.
-LaTeX Font Info:    Try loading font information for FML+fncmi on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for FML/fncmi/m/it on input line 48.
+LaTeX Font Info:    Try loading font information for FML+fncmi on input line 48.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fouriernc/fmlfncmi.fd
 File: fmlfncmi.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncmi.
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for FMS/fncm/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for FMS+fncm on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for FMS/fncm/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for FMS+fncm on input line 48.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fouriernc/fmsfncm.fd
 File: fmsfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FMS/fncm.
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for FMX+futm on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for FMX+futm on input line 48.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 48.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+fnc on input line 47.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Try loading font information for T1+fnc on input line 48.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fouriernc/t1fnc.fd
 File: t1fnc.fd 2005/12/13 scaled font definitions for T1/fnc.
 )
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 10.18341pt on input line 47.
+(Font)              scaled to size 10.18341pt on input line 48.
 LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
-(Font)              scaled to size 10.18341pt on input line 53.
+(Font)              scaled to size 10.18341pt on input line 54.
 LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
-(Font)              scaled to size 16.07027pt on input line 66.
+(Font)              scaled to size 16.07027pt on input line 67.
 LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
-(Font)              scaled to size 13.39188pt on input line 92.
+(Font)              scaled to size 13.39188pt on input line 101.
 LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
-(Font)              scaled to size 10.18341pt on input line 104.
+(Font)              scaled to size 10.18341pt on input line 114.
  [1
 
 
 ]
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 7.71893pt on input line 131.
+(Font)              scaled to size 7.71893pt on input line 141.
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 131.
+(Font)              scaled to size 5.57996pt on input line 141.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 131.
+(Font)              scaled to size 10.07397pt on input line 141.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 131.
+(Font)              scaled to size 7.63599pt on input line 141.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 131.
-LaTeX Font Info:    Try loading font information for FML+fncm on input line 131.
+(Font)              scaled to size 5.51999pt on input line 141.
+LaTeX Font Info:    Try loading font information for FML+fncm on input line 141.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/fouriernc/fmlfncm.fd
 File: fmlfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncm.
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 131.
+(Font)              scaled to size 10.07397pt on input line 141.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 131.
+(Font)              scaled to size 7.63599pt on input line 141.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 131.
+(Font)              scaled to size 5.51999pt on input line 141.
 LaTeX Font Info:    Font shape `T1/fnc/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/fnc/b/n' tried instead on input line 158.
+(Font)              Font shape `T1/fnc/b/n' tried instead on input line 168.
 LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
-(Font)              scaled to size 10.18341pt on input line 158.
+(Font)              scaled to size 10.18341pt on input line 168.
 LaTeX Font Info:    Font shape `T1/fnc/m/sl' will be
-(Font)              scaled to size 10.18341pt on input line 182.
+(Font)              scaled to size 10.18341pt on input line 193.
  [1
 
 ] [2
@@ -417,7 +417,7 @@ LaTeX Font Info:    Font shape `T1/fnc/m/sl' will be
 ]
 Missing character: There is no ’ in font pncr8t!
 
-Overfull \hbox (25.02798pt too wide) in paragraph at lines 255--262
+Overfull \hbox (25.02798pt too wide) in paragraph at lines 266--273
  [] 
  []
 
@@ -425,6 +425,8 @@ Missing character: There is no ’ in font pncr8t!
 [3
 
 ] [4
+
+] [5
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
@@ -436,4 +438,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  35i,7n,23p,294b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (5 pages).
+Output written on main.pdf (6 pages).
